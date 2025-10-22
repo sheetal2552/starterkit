@@ -247,27 +247,3 @@ yarn generate:graphql
 <i>
 Codegen is also executed in yarn postinstall hook
 </i>
-
-
-### 👏 <a id="how-to-contribute" style="color: black;">How to Contribute</a>
-
-Contributions are welcome as always, before submitting a new PR please make sure to open a new
-issue so community members can discuss.
-
-Additionally you might find existing open issues which can helps with improvements.
-
-This project follows standard [code of conduct](/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
-
-### 📄 <a id="license" style="color: black;">License</a>
-
-This project is MIT licensed, as found in the [LICENSE](/LICENSE)
-
-<p>
-  <p  style="margin: 0">  
-    Built and maintained with 🌮 by <a href="https://karanpratapsingh.com">Karan</a>
-  </p>
-  <p style="margin: 0px 10px;">  
-    <a href="mailto:contact@karanpratapsingh.com">💼 Hire Me</a> | 
-    <a href="https://www.paypal.me/karanpratapsingh">🍺 Donate</a> 
-  </p>
-</p> 
